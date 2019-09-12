@@ -60,3 +60,13 @@
 (dolor Jose-Martinez lado_izquierdo)
 (paciente Jose-Martinez sobrepeso fumador))
 
+;;; Para que funcione el deffacts debe ejecutarse el comando (reset)
+
+
+;;Tambien se puede ingresar hecho por hecho con (assert )
+;;(assert (alta Jose-Martinez presion_ocular))
+;;(assert (anterior Jose-Martinez infarto))
+;;(assert (dolor Jose-Martinez lado_izquierdo))
+;;(assert (paciente Jose-Martinez sobrepeso fumador))
+
+
